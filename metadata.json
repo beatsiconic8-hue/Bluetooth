@@ -1,0 +1,6 @@
+{
+  "name": "BLE Surveillance Radar",
+  "description": "A high-tech simulation of a Bluetooth Low Energy (BLE) surveillance radar system. Monitor nearby device types (RPA, RST, STP), track distances in real-time, and manage home vs. target devices with a polished terminal-style interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
